@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/wordpress/wp-content/themes/multindustrial-tailwind/static/css/main.chunk.css",
-    "main.js": "/wordpress/wp-content/themes/multindustrial-tailwind/static/js/main.chunk.js",
-    "main.js.map": "/wordpress/wp-content/themes/multindustrial-tailwind/static/js/main.chunk.js.map",
-    "runtime-main.js": "/wordpress/wp-content/themes/multindustrial-tailwind/static/js/bundle.js",
-    "runtime-main.js.map": "/wordpress/wp-content/themes/multindustrial-tailwind/static/js/bundle.js.map",
-    "static/js/2.chunk.js": "/wordpress/wp-content/themes/multindustrial-tailwind/static/js/2.chunk.js",
-    "static/js/2.chunk.js.map": "/wordpress/wp-content/themes/multindustrial-tailwind/static/js/2.chunk.js.map",
-    "index.php": "/wordpress/wp-content/themes/multindustrial-tailwind/index.php",
-    "precache-manifest.4ab709ac44c03dd3bb6d7df379c7c37c.js": "/wordpress/wp-content/themes/multindustrial-tailwind/precache-manifest.4ab709ac44c03dd3bb6d7df379c7c37c.js",
-    "service-worker.js": "/wordpress/wp-content/themes/multindustrial-tailwind/service-worker.js",
-    "static/css/main.chunk.css.map": "/wordpress/wp-content/themes/multindustrial-tailwind/static/css/main.chunk.css.map",
-    "static/js/2.chunk.js.LICENSE.txt": "/wordpress/wp-content/themes/multindustrial-tailwind/static/js/2.chunk.js.LICENSE.txt"
+    "main.css": "/wp-content/themes/multindustrial-tailwind/static/css/main.chunk.css",
+    "main.js": "/wp-content/themes/multindustrial-tailwind/static/js/main.chunk.js",
+    "main.js.map": "/wp-content/themes/multindustrial-tailwind/static/js/main.chunk.js.map",
+    "runtime-main.js": "/wp-content/themes/multindustrial-tailwind/static/js/bundle.js",
+    "runtime-main.js.map": "/wp-content/themes/multindustrial-tailwind/static/js/bundle.js.map",
+    "static/js/2.chunk.js": "/wp-content/themes/multindustrial-tailwind/static/js/2.chunk.js",
+    "static/js/2.chunk.js.map": "/wp-content/themes/multindustrial-tailwind/static/js/2.chunk.js.map",
+    "index.php": "/wp-content/themes/multindustrial-tailwind/index.php",
+    "precache-manifest.4ab709ac44c03dd3bb6d7df379c7c37c.js": "/wp-content/themes/multindustrial-tailwind/precache-manifest.4ab709ac44c03dd3bb6d7df379c7c37c.js",
+    "service-worker.js": "/wp-content/themes/multindustrial-tailwind/service-worker.js",
+    "static/css/main.chunk.css.map": "/wp-content/themes/multindustrial-tailwind/static/css/main.chunk.css.map",
+    "static/js/2.chunk.js.LICENSE.txt": "/wp-content/themes/multindustrial-tailwind/static/js/2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/bundle.js",
